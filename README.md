@@ -56,9 +56,9 @@ Status     : Currently learning • Building • Contributing
 
 <div align="center">
 
-| 🏅 Program | 🎯 Role | 📋 Details |
+| 🏅 Program | 🎯 Role | 📋 Status |
 |:---:|:---:|:---:|
-| **GSSoC 2026** | Contributor | GirlScript Summer of Code |
+| **GSSoC 2026** | Contributor | Currently Contributing |
 | **NSoC 2026** | Contributor | Final Rank: **#199** |
 
 </div>
