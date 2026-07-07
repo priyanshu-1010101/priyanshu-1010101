@@ -73,10 +73,6 @@ Status     : Currently learning • Building • Contributing
 
 <br/>
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-1010101&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0D1117" />
-</div>
-
 ---
 
 ## 🗺️ Contribution Snake
