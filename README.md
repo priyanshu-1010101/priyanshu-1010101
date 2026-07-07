@@ -78,7 +78,7 @@ Status     : Currently learning • Building • Contributing
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-1010101&hide_border=true&theme=github-dark-blue&background=0D1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=priyanshu-1010101&hide_border=true&theme=github-dark-blue&background=0D1117" alt="Streak Stats" />
 </div>
 
 ---
