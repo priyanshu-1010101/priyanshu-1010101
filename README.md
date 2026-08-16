@@ -64,17 +64,6 @@ Status     : Currently learning • Building • Contributing
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-1010101&theme=react-dark&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
----
-
 ## 🗺️ Contribution Snake
 
 <div align="center">
