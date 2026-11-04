@@ -58,7 +58,7 @@ Status     : Currently learning • Building • Contributing
 
 | 🏅 Program | 🎯 Role | 📋 Status |
 |:---:|:---:|:---:|
-| **GSSoC 2026** | Contributor | Currently Contributing |
+| **GSSoC 2026** | Contributor | Final Rank: **#476** |
 | **NSoC 2026** | Contributor | Final Rank: **#199** |
 
 </div>
